@@ -1,5 +1,5 @@
 # Spring Security Example
-Adding Spring Boot Starter Security
+Adding Spring Boot Starter Security features
 
 ## Check for response via JSON
 localhost:8080/student/Student1/courses
